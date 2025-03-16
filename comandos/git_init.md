@@ -2,4 +2,8 @@
 
 sirve para inicializar un reposotirio
 
-> git init
+```bash
+ git init
+
+
+otra cosa
