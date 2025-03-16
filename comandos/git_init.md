@@ -3,7 +3,7 @@
 sirve para inicializar un reposotirio
 
 ```bash
- git init
-
+git init
+```
 
 otra cosa
