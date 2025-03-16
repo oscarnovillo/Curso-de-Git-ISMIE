@@ -2,4 +2,7 @@
 Curso Git Ismie
 
 Enlace a imagen 
-![Texto alternativo de la imagen](/assets/nfl%20week2.PNG)
+
+[Practica 1](/practicas/practica1.md)
+
+[Resumen de comandos](/comandos/)
