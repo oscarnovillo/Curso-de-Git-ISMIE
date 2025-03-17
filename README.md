@@ -1,8 +1,17 @@
-# Curso-de-Git
-Curso Git Ismie
+# Curso de Git
 
-Enlace a imagen 
+Este curso es un tutorial de Git, destinado a un curso del ISMIE para profesores de la Comunidad de Madrid.
 
-[Practica 1](/practicas/practica1.md)
+## Contenido:
 
-[Resumen de comandos](/comandos/)
+### [Introducción](/introduccion/introduccion.md)
+
+
+
+ 
+
+
+### [Practicas a realizar](/practicas/practicas%20de%20git.md)
+
+
+### [Ayudas](/comandos/)
