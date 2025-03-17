@@ -8,6 +8,14 @@ Diferenciar entre git y [github](github.md), son cosas distintas.
 
 Que nos aporta
 
+<table border=1>
+<tr>
+<td>
+    hola
+</td>
+</tr>
+</table>
+
 
 Instalación
 
