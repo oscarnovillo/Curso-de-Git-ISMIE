@@ -1,16 +1,42 @@
- <h1>Anadir un Nuevo Alumno</h1>
+# Markdown
 
-        <label for="nombre">Nombre:</label>
-        <input type="text" name="nombre" required />
 
-        <label for="nota1">Nota 1:</label>
-        <input type="number" name="nota1" required />
+Cosas a saber
 
-        <label for="nota2">Nota 2:</label>
-        <input type="number" name="nota2" required />
+Encabezados 
 
-        <label for="nota3">Nota 3:</label>
-        <input type="number" name="nota3" required />
+``` markdown
+# Encabezado
+## Encabezado 2
+### Encabezado 3
+```
 
-        <button type="submit">Anadir</button>
+# Encabezado
+## Encabezado 2
+### Encabezado 3
 
+
+Listas
+
+``` markdown
+- lista
+    - sub lista
+- lista
+
+1. lista ordenada
+    1. sub lista ordenada
+2. lista ordenada
+```
+
+- lista
+    - sub lista
+- lista
+
+1. lista ordenada
+    1. sub lista ordenada
+2. lista ordenada
+
+
+
+
+(Guia markdown)[https://markdown.es/]
