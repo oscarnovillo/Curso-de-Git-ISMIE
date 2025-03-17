@@ -11,4 +11,9 @@ Sin un VCS el manejo de los cambios de un proyecto se combierte en un lio de car
 ![Folder mess](/assets/sin-vcs-2.png)
 
 
+# Tipos
+
+Los diferencia donde se guarden los cambios, si se guardan en local todos los cambios o sólo se guardan en remoto
+
+![Arquitectura](/assets/arquitectura%20VCS.PNG)
 
