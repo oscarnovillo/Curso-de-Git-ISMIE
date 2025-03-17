@@ -1,9 +1,12 @@
 # Markdown
 
+Se pueden incrustar también elementos html, como tablas, imagenes, pero hay limitaciones.
 
-Cosas a saber
 
-Encabezados 
+
+Sintaxis básica
+
+## Encabezados 
 
 ``` markdown
 # Encabezado
@@ -16,7 +19,17 @@ Encabezados
 ### Encabezado 3
 
 
-Listas
+## negrita cursiva
+
+``` markdown
+**texto en negrita**
+*texto en cursiva*
+```
+**texto en negrita**
+*texto en cursiva*
+
+
+## Listas
 
 ``` markdown
 - lista
@@ -37,6 +50,22 @@ Listas
 2. lista ordenada
 
 
+## Links
+``` markdown
+[Guia markdown](https://markdown.es/)
+```
+[Guia markdown](https://markdown.es/)
 
 
-(Guia markdown)[https://markdown.es/]
+
+## Imagenes
+
+``` markdown
+![Guia markdown](/assets/git.png)
+```
+![Guia markdown](/assets/git.png)
+
+
+
+
+
