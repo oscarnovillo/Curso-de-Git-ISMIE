@@ -4,7 +4,9 @@ Se pueden incrustar también elementos html, como tablas, imagenes, pero hay lim
 
 Se pueden usar graficos hechos con [Mermaid](https://mermaid.js.org/)
 
-
+Se pueden usar emojis 🤚🏽 🎈🎈
+- [Emojipedia](https://emojipedia.org/)
+- [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
 Sintaxis básica
 
