@@ -23,7 +23,7 @@ Este es un ejemplo de cómo representar la vida de una persona usando Git y Merm
 ```mermaid
 gitGraph
     commit id: "Nacimiento"
-    commit id: "Primer día de escuela"
+    commit id: "Primer día de escuela" tag: "v1.0.0"
     branch primer-amor
     checkout primer-amor
     commit id: "Primer cita"

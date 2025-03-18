@@ -2,6 +2,8 @@
 
 Se pueden incrustar también elementos html, como tablas, imagenes, pero hay limitaciones.
 
+Se pueden usar graficos hechos con [Mermaid](https://mermaid.js.org/)
+
 
 
 Sintaxis básica
