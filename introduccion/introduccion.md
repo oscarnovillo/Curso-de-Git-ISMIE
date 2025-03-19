@@ -6,24 +6,35 @@ Git es un [VCS](vcs.md), sistema de control de versiones, y como su nombre indic
 Diferenciar entre git y [github](github.md), son cosas distintas.
 
 
-Que nos aporta
+## Que nos aporta
 
-Para asignaturas de desarrollo de código, el control de versiones de los alumnos
-Para darse a conocer y tener su CV.
+- Para darse a conocer y tener información personal. 
+    - [Aris Gismera](https://github.com/ArisGuimera)
+    - [Jose Luis Gonzalez](https://github.com/joseluisgs)
 
-Para profesores, el poder hacer practicas paso a paso.
-Para profesores, el tener mayor control de código cuando se explica.
-Para asignaturas de administración.
-Hay infinidad de scripts, herramientas python...
+- Para poder alojar apuntes
+    - [Programacion de Jose Luis Gonzalez](https://github.com/joseluisgs/Programacion-00-2024-2025)
 
-Con una organizacion tendrías el control del código de todos los proyectos de la clase.
-Con los insights ves cuando trabajan cuando no.
+- Para poder hacer tutoriales paso a paso, o explicar el código de clase.
+    - [Philipp Lackner](https://github.com/philipplackner/JetpackComposeMasterclass)
+    - [Proyecto de android](https://github.com/oscarnovillo/dam2_2425/tree/moviles/moviles/Navigation)
 
-Para marcas tienes un hosting gratuito para cada cuenta.
+- Para obtener recursos
+    - [Baeldung](https://github.com/baeldung)
+    - [hacking](https://github.com/The-Art-of-Hacking/h4cker)
+    - [Curso de Bash](https://github.com/Devsebastian44/Curso-de-Bash)
+    - [Curso de Python](https://github.com/midudev/curso-python)
 
-Sirve para poder hacer apuntes.
+- Control del código de una clase entera con organizaciones
+    - Creas una organización, añades a los alumnos y vas creando repositorios
+    - Pegas de permisos
+    - Con Insights se puede ver quien ha trabajado y cuando.
+    ![Insights](/assets/insights.PNG)
+
+- Para usar un hosting gratuito con github.io
+   - [Daniel Gonzalez Trabada](https://dgtrabada.github.io/)
+   - [Jose Luis Gonzalez](https://joseluisgs.github.io)
 
 
 
-Instalación
 
