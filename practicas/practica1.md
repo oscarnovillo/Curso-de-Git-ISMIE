@@ -6,7 +6,7 @@ Instalacion
 
 Crear repositorio
 
-[Git init](/comandos/git_init.md)
+[git init](/comandos/git_init.md)
 
 
 
