@@ -8,5 +8,17 @@ Crear repositorio
 
 [git init](/comandos/git_init.md)
 
+git status
+
+git log
+
+git add
+
+git commit 
+
+git checkout
+
+
+
 
 
