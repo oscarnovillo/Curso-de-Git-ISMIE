@@ -7,6 +7,8 @@ git add <file>
 ```
 
 Puedes ir haciendo uno por file o poner "." para controlar todos.
-
+```bash
+git add .
+```
 
 [documentacion oficial](https://github.com/git-guides/git-add)]

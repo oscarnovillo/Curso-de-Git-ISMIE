@@ -6,6 +6,8 @@ Instalacion
 
 Crear repositorio
 
+- ¿Como organizar un repositorio?
+
 [git init](/comandos/git_init.md)
 
 git status

@@ -3,6 +3,8 @@
 
 Es un servidor para guardar en la nube tu proyecto git y así poder compartirlo
 
+sus competidores son [Gitlab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/product/)
+
 
 Te da otras cosas a parte de git
 

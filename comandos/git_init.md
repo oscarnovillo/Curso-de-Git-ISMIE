@@ -1,6 +1,6 @@
 # Git Init
 
-sirve para inicializar un reposotirio
+sirve para inicializar un repositorio
 
 ```bash
 git init
