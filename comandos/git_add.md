@@ -1,11 +1,12 @@
 # Git Add
 
-sirve para poner controlar el cambio.
+sirve para empezar a controlar los cambios de un fichero, poner el fichero en estado stage
 
 ```bash
 git add <file>
 ```
 
-Al ejecutarlo se crea una carpeta oculta, ".git" donde se van guardando los cambios.
+Puedes ir haciendo uno por file o poner "." para controlar todos.
+
 
 [documentacion oficial](https://github.com/git-guides/git-add)]

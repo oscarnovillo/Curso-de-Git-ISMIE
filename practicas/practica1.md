@@ -18,6 +18,8 @@ git commit
 
 git checkout
 
+git branch
+
 
 
 

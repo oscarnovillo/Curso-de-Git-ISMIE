@@ -5,6 +5,8 @@ Git es un [VCS](vcs.md), sistema de control de versiones, y como su nombre indic
 
 Diferenciar entre git y [github](github.md), son cosas distintas.
 
+[Estado](git_states.md) de un archivo en GIT
+
 
 ## Que nos aporta
 
