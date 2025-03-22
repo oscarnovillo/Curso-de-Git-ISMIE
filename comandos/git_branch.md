@@ -5,7 +5,7 @@ sirve para trabajar con branches.
 cuando creas un nuevo branch siempre se basa en otro.
 
 ```bash
-git branch <nombre nuevo>
+git branch <nombre nuevo branch>
 ```
 
 
