@@ -39,13 +39,36 @@ Si quieres mas ayuda mira la [lista de comandos](/comandos/listado.md)
 
 7 Prueba a volver a una version anterior del repositorio.
 
+  - comprueba el contenido de los ficheros
   ``` bash
   git log
   git checkout <commit hash>
   ```
 
+8 Vamos a hacer una rama
+  - vuelve a la rama main.
+  ``` bash
+  git checkout main
+  ```  
+  - Crea una nueva rama y cambiate a ella
+  ``` bash
+  git branch <nombre-rama-nueva>
 
-git branch
+  git checkout <nombre-rama-nueva>
+
+  # tambien se puede hacer
+
+  git branch -b <nombre-rama-nueva>
+  ```  
+
+9 Crea una carpeta nueva con el nombre de la rama, crea ficheros dentro y repite los pasos 2,3,4
+
+   - ejecuta git log con la opcion graph
+  ``` bash
+  git log --graph
+  ```  
+
+
 
 
 
