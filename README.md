@@ -16,3 +16,8 @@ Este curso es un tutorial de Git, destinado a un curso del ISMIE para profesores
 ### Ayudas
 
 - [comandos](/comandos/README.md)
+- [graficamente ver commit y branches](https://git-school.github.io/visualizing-git/)
+- [ejercicios graficos de git](https://learngitbranching.js.org/?locale=es_ES)
+- [Conceptos de git](https://gitimmersion.com/index.html)
+
+
