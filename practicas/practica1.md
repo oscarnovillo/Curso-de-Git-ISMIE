@@ -34,12 +34,16 @@ Si quieres mas ayuda mira la [lista de comandos](/comandos/listado.md)
   ``` bash
   git add .
   git commit -m "mensaje"
-  git status
+  git log
   ```
 
+7 Prueba a volver a una version anterior del repositorio.
 
+  ``` bash
+  git log
+  git checkout <commit hash>
+  ```
 
-git checkout
 
 git branch
 

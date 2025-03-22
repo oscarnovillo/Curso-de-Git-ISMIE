@@ -8,10 +8,11 @@ Este curso es un tutorial de Git, destinado a un curso del ISMIE para profesores
 
 
 
- 
+### [Practicas](/practicas/practicas%20de%20git.md)
 
 
-### [Practicas a realizar](/practicas/practicas%20de%20git.md)
 
 
-### [Ayudas](/comandos/)
+### Ayudas
+
+- [comandos](/comandos/README.md)
