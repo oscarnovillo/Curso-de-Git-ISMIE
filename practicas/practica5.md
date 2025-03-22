@@ -24,5 +24,6 @@ Puedes usar Jekyll para autogenerar la web. [Documentacio oficial](https://pages
 
 [Temas de jekyll](http://jekyllthemes.org/)
 
+[Documentacion de Jekyll](https://jekyllrb.com/)
 
 
