@@ -10,7 +10,7 @@ Tu presentacion personal se puede cambiar si creas un repositorio que se llame c
 
 [efectos graficos](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Escribiendo ...;Volviendo a escribir)]
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Escribiendo ...;Volviendo a escribir)
 
 
 
