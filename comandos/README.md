@@ -1,6 +1,9 @@
 # Listado Comandos Git
 
-[listado](listado.md)
+[Enlace al listado](listado.md)
 
+
+
+## CheetSheet
 
 ![cheetsheet](/assets/cheetsheetGit.png)
