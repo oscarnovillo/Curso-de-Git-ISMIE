@@ -11,6 +11,8 @@
 - Instalacion de IDES
     - [GIT KRAKEN](https://www.gitkraken.com/)
     - [VSCODE](https://code.visualstudio.com/)
+       - [plugin Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens#:~:text=GitLens%20is%20a%20powerful%20open,fully%20customizable%20within%20VS%20Code.)
+       - [plugin Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
     - [WS intellij](https://www.jetbrains.com/webstorm/)
     - [INTELLIJ](https://lp.jetbrains.com/intellij-idea-promo/?source=google&medium=cpc&campaign=EMEA_en_ES_IDEA_Branded&term=intellij&content=693349187718&gad_source=1&gclid=CjwKCAjwnPS-BhBxEiwAZjMF0kPnvpQsgOXvlsq_elb-w59nzmDMxkhHA3Vf371coGksZLeLiJt7MxoCUCEQAvD_BwE)
 
@@ -19,15 +21,7 @@
     git config --global user.name "John Doe"
     git config --global user.email "johndoe@example.com
 
-    # solo si vas a usar windows y linux a la vez
-    
-    # en linux
-    git config --global core.autocrlf input
-    git config --global core.safecrlf true
-
-    # en windows
-    git config --global core.autocrlf true
-    git config --global core.safecrlf true
+   
     ```
 
 - Alta en GITHUB
