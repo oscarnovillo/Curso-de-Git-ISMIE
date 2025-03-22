@@ -8,7 +8,7 @@
     ``` bash 
         apt get install git 
     ```
-- Instalacion de IDES
+- Instalacion de utlidades graficas
     - [GIT KRAKEN](https://www.gitkraken.com/)
     - [VSCODE](https://code.visualstudio.com/)
        - [plugin Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens#:~:text=GitLens%20is%20a%20powerful%20open,fully%20customizable%20within%20VS%20Code.)
