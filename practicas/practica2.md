@@ -30,3 +30,7 @@ Usando el repositorio de la practica anterior con varias ramas.
     - commit de los cambios
 
 4. Vete a la rama nueva 
+    - haz un cambio en el archivo, cambia el contenido de la primera linea que quedaría "desde la rama main, y ahora la nueva"
+    - haz un commit del cambio
+    - haz un merge de la rama main en la rama nueva
+    - Soluciona el conflicto
