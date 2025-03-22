@@ -69,7 +69,7 @@ Si quieres mas ayuda mira la [lista de comandos](/comandos/listado.md)
   ```  
 
 
-
+10 repite el proceso con vscode, y con git kraken
 
 
 
