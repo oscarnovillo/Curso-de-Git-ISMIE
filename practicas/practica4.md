@@ -1,1 +1,6 @@
-tags, gists, gitignore, stash, cambios en historial
+# Conceptos Extra Git
+
+
+
+
+tags, gists, gitignore, stash worktrees, cambios en historial

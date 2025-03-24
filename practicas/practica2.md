@@ -1,4 +1,4 @@
-# Practica 2 GitHub
+# Practica 2 Conflictos
 
 Vamos a ver el termino conflicto en un repositorio
 
