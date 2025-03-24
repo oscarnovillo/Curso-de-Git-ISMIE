@@ -3,4 +3,4 @@
 
 
 
-tags, gists, gitignore, stash worktrees, cambios en historial
+tags, gists, gitignore, stash, worktrees, cambios en historial
