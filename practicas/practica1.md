@@ -23,7 +23,7 @@ Si quieres mas ayuda mira la [lista de comandos](/comandos/listado.md)
 
 4 Haz un commit para controlar el cambio.
   ``` bash
-  git commit - m "mensaje"
+  git commit -m "mensaje"
   git status
   git log 
   ```
@@ -58,7 +58,7 @@ Si quieres mas ayuda mira la [lista de comandos](/comandos/listado.md)
 
   # tambien se puede hacer
 
-  git branch -b <nombre-rama-nueva>
+  git checkout -b <nombre-rama-nueva>
   ```  
 
 9 Crea una carpeta nueva con el nombre de la rama, crea ficheros dentro y repite los pasos 2,3,4
