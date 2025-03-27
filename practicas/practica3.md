@@ -2,6 +2,7 @@
 
 Acceso remoto a Github
 
+con github , markdown, resolucion de conflictos, repositorios. clonado, fork, pullrequest.
 1. Crear un repositorio remoto.
   1. Primero en local y luego en remoto
 
