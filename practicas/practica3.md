@@ -1,6 +1,14 @@
-# Practica 3
+# Practica 3 Github
 
-Acceso remoto a Github
+1. Subir repositorio local a remoto a Github
+  - Crea un repositorio en github vacio
+  - añade el upstream a local
+  ```bash
+   git remote add origin https://github.com/oscarnovillo/reponuevo.git
+   git push -u origin main
+  ```
+  - Hay que subir rama a rama
+
 
 con github , markdown, resolucion de conflictos, repositorios. clonado, fork, pullrequest.
 1. Crear un repositorio remoto.
