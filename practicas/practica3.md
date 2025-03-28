@@ -10,17 +10,15 @@
   - Hay que subir rama a rama
 
 
-con github , markdown, resolucion de conflictos, repositorios. clonado, fork, pullrequest.
-1. Crear un repositorio remoto.
-  1. Primero en local y luego en remoto
+2. Crea un fichero README.md en la raiz para poner una descripcion del proyecto
+   - usa [markdown](/introduccion/markdown.md)
+   - pone distintos estilos, una cabecera, un link a donde quiera y una imagen.
 
-2. Clonar repositorio
-    1. Crea un repositorio remoto
+3. Crea un repositorio nuevo directamente en Github, con un README.md
+   - clona el repositorio en local 
+   ```bash
+   git clone <url>
+   ``` 
+   - haz cambios en el repositorio y subelos a github.
 
-    2. Hacer pagina de inicio con markdown
 
-    3. baja una carpeta de un repositorio
-
-
-
-3. Concepto de pull request y fork.
