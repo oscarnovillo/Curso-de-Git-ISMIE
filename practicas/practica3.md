@@ -21,6 +21,12 @@
    ``` 
    - haz varios cambios en el repositorio y subelos a github.
 
+4. Ver logs del repositorio.
+   - Ventana de commits, en un listado.
+   - Insights. 
 
+5. EXTRA: Borrar un repositorio en github
+   - En settings del repositorio
+   - Al final en DangerZone, Delete Repository, pide confirmaciones.
 
 

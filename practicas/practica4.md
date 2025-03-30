@@ -1,6 +1,8 @@
 tags, gists, gitignore, stash, cambios en historial, bajada de carpetas
 # Conceptos Extra Git
 
+1. 
+
 
 
 
