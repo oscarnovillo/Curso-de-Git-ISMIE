@@ -19,6 +19,8 @@
    ```bash
    git clone <url>
    ``` 
-   - haz cambios en el repositorio y subelos a github.
+   - haz varios cambios en el repositorio y subelos a github.
+
+
 
 
