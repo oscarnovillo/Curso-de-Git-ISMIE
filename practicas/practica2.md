@@ -20,17 +20,14 @@ Usando el repositorio de la practica anterior con varias ramas.
 2. Vete a la rama nueva
     - haz un merge de la rama main en la rama nueva
     - verifica la existencia del fichero conflicto.txt
-    - añade una linea al fichero conflicto.txt con el contenido "desde la rama nueva"
+    - añade una linea al fichero conflicto.txt con el contenido "desde la rama nueva". el fichero tendrá dos lineas.
     - commit del cambio
 
 3. Vete a la rama main
-    - haz un merge de la rama nueva.
-    - verifica el contenido del fichero conflicto.txt
-    - mete una nueva linea en el fichero con el texto "nueva linea desde la rama main"
+    - No has merge todavía.
+    - mete una nueva linea en el fichero con el texto "nueva linea desde la rama main", el fichero tendrá dos lineas
     - commit de los cambios
 
-4. Vete a la rama nueva 
-    - haz un cambio en el archivo, cambia el contenido de la primera linea que quedaría "desde la rama main, y ahora la nueva"
-    - haz un commit del cambio
-    - haz un merge de la rama main en la rama nueva
+4. Desde la misma rama main
+    - haz un merge de la rama nueva
     - Soluciona el conflicto
