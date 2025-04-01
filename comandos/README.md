@@ -7,4 +7,4 @@
 ## CheetSheet
 
 ![cheetsheet](/assets/cheetsheetGit.png)
-![cheetsheet](/assets/cheetsheetGit2.png)
+![cheetsheet](/assets/cheetSheetGit2.png)
