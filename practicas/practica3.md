@@ -1,7 +1,7 @@
 # Practica 3 Github
 
 1. Subir repositorio local a remoto a Github
-  - Crea un repositorio en github vacio
+  - Crea un repositorio en github vacio. Si no eres Pro, hazlo publico.
   - añade el upstream a local
   ```bash
    git remote add origin https://github.com/oscarnovillo/reponuevo.git
