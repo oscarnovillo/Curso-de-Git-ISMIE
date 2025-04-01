@@ -1,4 +1,4 @@
-tags, gists, gitignore, stash,  bajada de carpetas
+
 # Conceptos Extra Git
 
 1. Fichero gitignore
@@ -13,11 +13,14 @@ tags, gists, gitignore, stash,  bajada de carpetas
 2. Crea un Tag, súbelo a github.
   - Comprueba en github que se puede bajar un zip con ese tag
 
-3. 
-
+3. Crear un gist
+  - Instala una extension en el IDE. En vscode, GistPad
+  - Selecciona una parte de un fichero y añade el gist
+  - Pega un gist en un fichero.
 
 4. Otras formas de acceder a repositorios.
   - bajar el zip del código. No bajas los cambios.
   - bajar una carpeta de un repositorio, accediendo a [herramienta bajar directorio](https://download-directory.github.io/)
 
-tags, gists, gitignore, stash, worktrees, cambios en historial
+5. Trabajo con ficheros en working directory.
+  - 
