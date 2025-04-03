@@ -4,5 +4,5 @@ git rebase
 
 git commit -amend
 
-git reset
+git reset, revert
 

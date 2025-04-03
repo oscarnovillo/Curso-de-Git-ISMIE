@@ -23,4 +23,4 @@
   - bajar una carpeta de un repositorio, accediendo a [herramienta bajar directorio](https://download-directory.github.io/)
 
 5. Trabajo con ficheros en working directory.
-  - 
+  - Stash, Worktrees
