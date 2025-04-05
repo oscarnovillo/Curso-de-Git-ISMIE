@@ -24,8 +24,7 @@ Partimos de un repositorio en github con varios ficheros.
    - Dentro del repositorio de Pepe haz un push.
       - Te pide hacer un pull antes porque el repositorio remoto tiene cambios que no estan en local
       - Al hacer pull es cuando se genera el conflicto.
-
-    - Resuelvelo.
+      - Resuelvelo.
 
 
 
