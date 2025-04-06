@@ -12,6 +12,7 @@
 
 2. Crea un Tag, súbelo a github.
   - Comprueba en github que se puede bajar un zip con ese tag
+  - Crea una release del repositorio.
 
 3. Crear un gist
   - Instala una extension en el IDE. En vscode, GistPad
