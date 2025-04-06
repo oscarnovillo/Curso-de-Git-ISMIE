@@ -1,8 +1,8 @@
 # Trabajo con repositorios o ramas sin permisos.
 
 1. Trabajo con repositorios sin permisos. Proyectos Open Source
-   - Haz un fork del proyecto de practicas
-   - Haz tus cambios sin problemas.
+   - Haz un fork del proyecto del curso de git.
+   - Haz tus cambios sin problemas, añade un fichero con tu nombre.
    - Al final haz un pull request al proyecto original
 
 2. Trabajo en un repositorio donde no tienes permisos en la rama main.
