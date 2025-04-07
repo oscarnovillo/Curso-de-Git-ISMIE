@@ -8,6 +8,7 @@
   - ficheros de configuración local
   - ficheros sensibles, secretos...
   - El fichero se puede coger de una [plantilla](https://www.toptal.com/developers/gitignore)
+  - Crea un fichero secreto.txt, incluyelo en el gitignore para que no se suba.
 
 
 2. Crea un Tag, súbelo a github.
@@ -19,11 +20,7 @@
   - Selecciona una parte de un fichero y añade el gist
   - Pega un gist en un fichero.
 
-4. Otras formas de acceder a repositorios.
-  - bajar el zip del código. No bajas los cambios.
-  - bajar una carpeta de un repositorio, accediendo a [herramienta bajar directorio](https://download-directory.github.io/)
-
-5. Trabajo con ficheros en working directory.
+4. Trabajo con ficheros en working directory.
   - Parte de un repositorio con una rama main y otra develop
   - Checkout de la rama develop
   - Haz cambios en ficheros pero no hagas commit
@@ -40,3 +37,7 @@
       - Si quieres trabajar en main puedes hacer un worktree de main y lo editas.
       - Al acabar se puede borrar el worktree de main.
       - Entre media puedes seguir con tus cambios en develop sin problemas.
+
+5. EXTRA Otras formas de acceder a repositorios.
+  - bajar el zip del código. No bajas los cambios.
+  - bajar una carpeta de un repositorio, accediendo a [herramienta bajar directorio](https://download-directory.github.io/)
