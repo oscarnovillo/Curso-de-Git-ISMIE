@@ -4,11 +4,11 @@ Haz un fork del (repositorio de practicas)[https://github.com/oscarnovillo/pract
 Hazlo de todas las ramas
 
 
-1. Cambios del ultimo commit.
+1. ### Cambios del ultimo commit.
  
-git rebase
+2. ### git rebase 
 
-git commit -amend
+- [X] git commit -amend
 
 git reset, revert
 
