@@ -9,6 +9,7 @@ Hazlo de todas las ramas
 2. ### git rebase 
 
 - [X] git commit -amend
+- [ ] git commit -amend
 
 git reset, revert
 
