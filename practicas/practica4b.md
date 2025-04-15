@@ -7,7 +7,7 @@ Hazlo de todas las ramas
 1. ### Practicar `git commit --amend`
 
     Trabajo con el contenido de la rama de ultimo-commit
-    
+
     1.  Realiza un cambio en cualquier archivo (por ejemplo, este mismo `README.md`).
     2.  Añade otro archivo al repositorio (por ejemplo, `archivo.md`):
     3.  Añade el archivo al área de preparación: `git add <nombre_archivo>`
@@ -16,8 +16,8 @@ Hazlo de todas las ramas
  
 2. ### git rebase 
 
-- [X] git commit -amend
-- [ ] git commit -amend
+    Trabaja con el contenido de la rama llamada rebase.
+
 
 git reset, revert
 
