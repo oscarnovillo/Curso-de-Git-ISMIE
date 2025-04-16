@@ -1,14 +1,13 @@
 # Proyectos
 
-Creación.
+La parte de proyectos sirve para llevar el mantenimiento de un proyecto ágil.
 
-Una base de datos de una tabla con un objeto
+Es una base de datos de una tabla con un objeto.
 
-Distintas vistas
+Hay distintas vistas configurables.
 
-Filtro de esas vistas
+Si los asocias a uno o varios repositorios se pueden convertir las tareas en issues
 
-Asociación con los repositorios, Issues
 
 Encaje de metodologías ágiles y en especial scrum.
 Task, User Stories.
