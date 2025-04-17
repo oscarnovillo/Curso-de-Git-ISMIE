@@ -8,10 +8,12 @@ Hay distintas vistas configurables.
 
 Si los asocias a uno o varios repositorios se pueden convertir las tareas en issues
 
+Encaje de metodologías ágiles y en especial scrum con sprints, historias de usuarios(Que) y tareas(Como).
 
-Encaje de metodologías ágiles y en especial scrum.
-Task, User Stories.
 
+
+
+1. 
 Seguimiento del proyecto.
 
 Graficos.
