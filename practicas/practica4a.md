@@ -1,7 +1,7 @@
 # Trabajo con repositorios o ramas sin permisos.
 
 1. Trabajo con repositorios sin permisos. Proyectos Open Source
-   - Haz un fork del proyecto del curso de git.
+   - Haz un fork del proyecto del [curso de git](https://github.com/oscarnovillo/Curso-de-Git-ISMIE.git)
    - Haz tus cambios sin problemas, añade un fichero con tu nombre.
    - Al final haz un pull request al proyecto original
 
