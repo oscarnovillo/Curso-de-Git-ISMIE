@@ -1,0 +1,1 @@
+Fichero de prueba de Sergio García Castilla para pull request a repo del curso de Git
