@@ -1,4 +1,4 @@
-# Listado de practicas
+# Listado de practicas.
 
 Prácticas del curso:
 
