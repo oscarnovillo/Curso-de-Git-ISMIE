@@ -7,7 +7,8 @@
 
 2. Trabajo en un repositorio donde no tienes permisos en la rama main.
    - Parte del repositorio [calpython](https://github.com/oscarnovillo/calcpython) con rama main y develop
-   - Haz cambios en la rama develop, añade un archivo con tu nombre.
+   - Hagais una rama con vuestro nombre
+   - Haz cambios en esa rama, añade un archivo con tu nombre.
    - Como no tienes permisos en la rama main no puedes hacer un merge.
    - Haz un pull request para mezclar las ramas.
 
