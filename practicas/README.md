@@ -11,6 +11,7 @@ Prácticas del curso:
 - [practica 4a fork, pullrequest](practica4a.md)
 - [practica 4b recrear historial de github](practica4b.md)
 - [practica 5 informacion personal en github](practica5.md)
-
+- [practica 6 proyectos](practica6.md)
+- [cosas extra](RandomExtra.md)
 
 
