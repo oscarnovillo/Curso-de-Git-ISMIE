@@ -2,6 +2,8 @@
 
 Este curso es un tutorial de Git, destinado a un curso del ISMIE para profesores de la Comunidad de Madrid.
 
+##Modificación sugerida por xtina-ies
+
 ## Contenido:
 
 ### [Introducción](/introduccion/README.md)
