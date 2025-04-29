@@ -10,8 +10,7 @@ Este curso es un tutorial de Git, destinado a un curso del ISMIE para profesores
 
 ### [Practicas](/practicas/README.md)
 
-
-
+### [Videos](https://mediateca.educa.madrid.org/video/l458sgzfornr7dtp)
 
 ### Ayudas
 
