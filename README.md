@@ -10,7 +10,7 @@ Este curso es un tutorial de Git, destinado a un curso del ISMIE para profesores
 
 ### [Practicas](/practicas/README.md)
 
-
+asdfasdf
 
 
 ### Ayudas
