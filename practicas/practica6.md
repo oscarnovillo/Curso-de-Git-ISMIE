@@ -36,7 +36,7 @@ Encaje de metodologías ágiles y en especial scrum con sprints, historias de us
 
 6. Crea un vistas tipo Board para el current sprint.
     - Pon las user stories y task en el primer sprint.
-    - Añade los campos parent-issue y sub progress issue para que se vean.
+    - Añade los campos parent-issue, type y sub progress issue para que se vean.
     - Haz un slice por el type.
 
 7. Crea una vistas tipo Roadmap para la planificación.
