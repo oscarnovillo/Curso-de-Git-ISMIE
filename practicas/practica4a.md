@@ -1,13 +1,14 @@
 # Trabajo con repositorios o ramas sin permisos.
 
 1. Trabajo con repositorios sin permisos. Proyectos Open Source
-   - Haz un fork del proyecto del curso de git.
+   - Haz un fork del proyecto del [curso de git](https://github.com/oscarnovillo/Curso-de-Git-ISMIE.git)
    - Haz tus cambios sin problemas, añade un fichero con tu nombre.
    - Al final haz un pull request al proyecto original
 
 2. Trabajo en un repositorio donde no tienes permisos en la rama main.
    - Parte del repositorio [calpython](https://github.com/oscarnovillo/calcpython) con rama main y develop
-   - Haz cambios en la rama develop, añade un archivo con tu nombre.
+   - Hagais una rama con vuestro nombre
+   - Haz cambios en esa rama, añade un archivo con tu nombre.
    - Como no tienes permisos en la rama main no puedes hacer un merge.
    - Haz un pull request para mezclar las ramas.
 
