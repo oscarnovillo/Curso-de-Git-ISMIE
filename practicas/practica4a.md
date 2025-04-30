@@ -1,4 +1,4 @@
-# Trabajo con repositorios o ramas sin permisos.
+# Trabajo con repositorios o ramas sin permisos..
 
 1. Trabajo con repositorios sin permisos. Proyectos Open Source
    - Haz un fork del proyecto del [curso de git](https://github.com/oscarnovillo/Curso-de-Git-ISMIE.git)
