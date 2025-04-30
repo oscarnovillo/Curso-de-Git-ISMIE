@@ -14,6 +14,10 @@ Antes de subirlos se podrían detectar con [Git leaks](https://gitleaks.io/)
 Borrar fichero de todos los commits con [git-filter-repo](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
 
 
+# Github Marketplace
+
+para apps o actions [Github marketplace](https://github.com/marketplace)
+
 # git hooks.
 
 Son scripts que se ejecutan en local antes o despues de alguna accion de git.

@@ -16,9 +16,9 @@ Encaje de metodologías ágiles y en especial scrum con sprints, historias de us
 1. Crea un proyecto nuevo.
 
 2. Añade los siguientes campos al objeto.
-    - Type: que podrá ser user story, o task
-    - Estimate: el tiempo estimado en horas de las task o los puntos de historias.
-    - Sprints: las iteraciones del proyecto
+    - Type: que podrá ser user story, o task, de tipo single select.
+    - Estimate: el tiempo estimado en horas de las task o los puntos de historias. de tipo numerico.
+    - Sprints: las iteraciones del proyecto, de tipo iteracion.
 
 3. Crea una primera vista, tipo tabla para el backlog.
     - Crea varias historias de usuario, ponles el tipo adecuado.
@@ -36,7 +36,7 @@ Encaje de metodologías ágiles y en especial scrum con sprints, historias de us
 
 6. Crea un vistas tipo Board para el current sprint.
     - Pon las user stories y task en el primer sprint.
-    - Añade los campos parent-issue y sub progress issue para que se vean.
+    - Añade los campos parent-issue, type y sub progress issue para que se vean.
     - Haz un slice por el type.
 
 7. Crea una vistas tipo Roadmap para la planificación.
