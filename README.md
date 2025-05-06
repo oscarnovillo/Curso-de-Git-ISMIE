@@ -1,6 +1,6 @@
 # Curso de Git
 
-Este curso es un tutorial de Git, destinado a un curso del ISMIE para profesores de la Comunidad de Madrid.
+Este es un FORK del curso tutorial de Git, destinado a un curso del ISMIE para profesores de la Comunidad de Madrid.
 
 ## Contenido:
 
