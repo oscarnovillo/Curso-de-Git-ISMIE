@@ -6,7 +6,7 @@ Este curso es un tutorial de Git, destinado a un curso del ISMIE para profesores
 
 ### [Introducción](/introduccion/README.md)
 
-
+Modificado por Consuelo Moya
 
 ### [Practicas](/practicas/README.md)
 
